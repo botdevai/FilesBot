@@ -18,7 +18,7 @@
   - get a token by talking to [@BotFather](https://telegram.dog/BotFather)
 
 - `TG_BOT_USERNAME`:
-  - your bot username, without the '@' symbol.
+  - your bot username, without the '@' symbol
 
 - `TG_DUMP_CHANNEL_ID`:
   - create a Telegram Channel.
